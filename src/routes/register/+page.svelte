@@ -1,3 +1,12 @@
+<nav class="bg-gray-100">
+    <div class="max-w-screen-xl p-4">
+        <a href="/" class="flex items-center -space-x-6">
+            <img src="./logo.svg" class="h-12" alt="tcf logo">
+            <span class="uppercase text-2xl font-semibold whitespace-nowrap">timechain <span class="text-[#EA5141]">finance</span></span>
+        </a>
+    </div>
+</nav>
+
 <section class="bg-gray-100 min-h-screen flex flex-col justify-center py-6">
     <h1 class="text-center text-3xl font-bold mb-4 text-gray-800">Welcome to Timechain Finance</h1>
     <div class="bg-teal-300 container mx-auto max-w-md rounded-2xl shadow-lg p-8">
