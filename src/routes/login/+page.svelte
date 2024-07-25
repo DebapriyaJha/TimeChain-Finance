@@ -9,7 +9,7 @@
   </div>
 </nav>
 
-<section class="bg-gray-100 min-h-screen flex flex-col justify-center py-6">
+<section class="bg-gray-100 min-h-11/12 flex flex-col justify-center py-6">
   <h1 class="text-center text-3xl font-bold mb-4 text-gray-800">
     Welcome Back!
   </h1>
@@ -53,12 +53,15 @@
           Log In
         </button>
       </div>
+      <div class="text-gray-700 mt-6 text-center">
+        Don't have an account?
+        <a
+          href="../register/"
+          class="text-blue-500 underline hover:text-blue-700"
+        >
+          Sign Up
+        </a>.
+      </div>
     </form>
-  </div>
-  <div class="text-gray-700 mt-6 text-center">
-    Don't have an account?
-    <a href="../register/" class="text-blue-500 underline hover:text-blue-700">
-      Sign Up
-    </a>.
   </div>
 </section>
