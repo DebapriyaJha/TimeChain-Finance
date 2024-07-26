@@ -1,3 +1,4 @@
+
 <nav class="bg-gray-100">
   <div class="max-w-screen-xl p-4">
     <a href="/" class="flex items-center -space-x-6">
@@ -54,9 +55,10 @@
           required
         />
         <label for="terms" class="text-white">
+          <!-- svelte-ignore a11y-invalid-attribute -->
           I agree to the <a
             href="#"
-            class="text-blue-200 underline hover:text-blue-300"
+            class="text-black underline hover:text-blue-300"
             >Terms and Conditions</a
           >
         </label>

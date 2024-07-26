@@ -1,3 +1,4 @@
+
 <nav class="bg-gray-100">
   <div class="max-w-screen-xl p-4">
     <a href="/" class="flex items-center -space-x-6">
@@ -43,7 +44,7 @@
           name="remember"
           class="mr-2 text-teal-600 focus:ring-teal-500"
         />
-        <label for="remember" class="text-white"> Remember me </label>
+        <label for="remember" class="text-black"> Remember me </label>
       </div>
       <div>
         <button
