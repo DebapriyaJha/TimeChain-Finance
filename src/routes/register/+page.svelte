@@ -2,9 +2,9 @@
 <nav class="bg-gray-100">
   <div class="max-w-screen-xl p-4">
     <a href="/" class="flex items-center -space-x-6">
-      <img src="./logo.svg" class="h-12" alt="tcf logo" />
+      <img src="/images/logo.png" class="h-12" alt="tcf logo" />
       <span class="uppercase text-2xl font-semibold whitespace-nowrap"
-        >timechain <span class="text-[#EA5141]">finance</span></span
+        >timechain <span class="text-[#003A4D]">finance</span></span
       >
     </a>
   </div>
